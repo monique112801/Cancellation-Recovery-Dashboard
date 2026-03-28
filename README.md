@@ -22,4 +22,4 @@ This project analyzes how effectively a clinic fills last-minute patient cancell
 - Fill rates varied across therapists and time slots, suggesting differences in scheduling efficiency  
 
 ## Dashboard
-[Insert Tableau Public Link Here]
+(https://public.tableau.com/views/PatientCancellationRecoveryAnalysis/PatientCancellationRecoveryAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
